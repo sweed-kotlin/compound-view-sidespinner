@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CompoundViewSidespinner</string>
+
+        <string-array name="vegetable_array">
+            <item>Cucumber</item>
+            <item>Potato</item>
+            <item>Tomato</item>
+            <item>Onion</item>
+            <item>Squash</item>
+        </string-array>
+
+
+</resources>
